@@ -6,6 +6,7 @@
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
 ### 🌟 You've successfully completed the exercise! 🌟
+<!-- Exercise status note: This repository is currently in the completed state for the "Hello GitHub Actions" exercise. -->
 
 ## 🚀 Share Your Success!
 
@@ -34,4 +35,3 @@
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
